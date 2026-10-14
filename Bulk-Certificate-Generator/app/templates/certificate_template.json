@@ -1,0 +1,21 @@
+{
+  "org_name": "ROVI INSTITUTE OF TECHNOLOGY",
+  "title": "Certificate of Completion",
+  "subtitle": "This certificate is proudly presented to",
+  "body_prefix": "for successfully completing",
+  "recipient_role": "Program Participant",
+  "badge_level": "gold",
+  "footer_left_title": "Authorized Signatory",
+  "footer_left_name": "Dr. Ramesh Kumar",
+  "footer_right_title": "Program Director",
+  "footer_right_name": "Prof. Suresh Babu",
+  "logo_path": "app/templates/logo.png",
+  "signature_left_path": "app/templates/sign_left.png",
+  "signature_right_path": "app/templates/sign_right.png",
+  "colors": {
+    "primary": "#1F3B73",
+    "accent": "#D4AF37",
+    "text": "#111111",
+    "muted": "#555555"
+  }
+}
